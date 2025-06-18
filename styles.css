@@ -1,0 +1,13 @@
+/* css styles */
+
+.attention {
+  color: #9A2515; !important
+}
+
+.small-text { 
+  font-size: 0.95em; 
+}
+
+.lunch-row tr {
+  background-color: #fff3b0; /* soft yellow */
+}

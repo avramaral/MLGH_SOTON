@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  # Only render these top-level QMD files; i.e., does not re-render inside projects
+  render: 
+    - index.qmd
+    - lecture_slides.qmd
+    - computer_lab.qmd
+    - problem_class.qmd
+  # Copy these folders (as-is) into docs/ when building.
+  resources: 
+    - slides
+    - labs
+    - problem_class
+  
+website:
+  title: "MLGH in-person meeting in Southampton"
+  search: false
+  navbar:
+    left: 
+    - text: "Venue"
+      href: "#venue"
+    - text: "Programme"
+      href: "#programme"
+    - text: "Funders"
+      href: "#funders"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    from: markdown+emoji
+
+
+

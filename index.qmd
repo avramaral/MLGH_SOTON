@@ -55,16 +55,16 @@ The meeting will feature a full day of research talks, with contributions from m
 | ---- | --------------- | -------------------------------------- | 
 | 10:30-10:35 | [André Amaral](https://www.avramaral.com/) (UoS) | Opening |
 | 10:35-11:35 | [Gianluca Boo](https://www.southampton.ac.uk/people/5xmflk/doctor-gianluca-boo){target="_blank"} (WorldPop, UoS) | TBC |
-| 11:35-12:05 | [Kevin Tang](https://www.lshtm.ac.uk/aboutus/people/tang.kevin){target="_blank"} and Mohammed Osman (World Food Programme) | Modelling & Mapping Inadequate Micronutrient Intake (MiMi) project |
+| 11:35-12:05 | [Kevin Tang](https://www.lshtm.ac.uk/aboutus/people/tang.kevin){target="_blank"} and [Mohammed Osman](https://www.linkedin.com/in/mo-osman-8200a0218/){target="_blank"} (World Food Programme) | Modelling & Mapping Inadequate Micronutrient Intake (MiMi) project |
 | 12:05-12:30 | [Layna Dennett](https://www.southampton.ac.uk/people/5xq75k/miss-layna-dennett){target="_blank"} (UoS) | Capture-recapture population size estimation with zero-truncated meta-analytic data |
 | [12:30-12:40]{style="color: red"} | [—]{style="color: red"} | [Group photo]{style="color: red"} |
 | [12:40-13:40]{style="color: red"} | [—]{style="color: red"} | [Lunch break]{style="color: red"} |
-| 13:40-14:00 | [Richard](XXX){target="_blank"} (???) | Improving **Food Security Monitoring** with Adaptive Survey Design, Data Integration, and Satellite Imagery (**FSM**, Part I) |
+| 13:40-14:00 | [Ziyao (Richard) Cui](https://www.linkedin.com/in/ziyao-richard-cui/){target="_blank"} (Duke University) | Improving **Food Security Monitoring** with Adaptive Survey Design, Data Integration, and Satellite Imagery (**FSM**, Part I) |
 | 14:00-14:20 | [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/){target="_blank"} (University of Oxford) | FSM (Part II) |
 | 14:20-14:40 | [Sahoko Ishida](https://www.cs.ox.ac.uk/people/sahoko.ishida/){target="_blank"} (University of Oxford) | FSM (Part III) |
-| 14:40-15:10 | [Sujit Sahu](https://www.southampton.ac.uk/people/5wynjr/professor-sujit-sahu){target="_blank"} (UoS) | Bayesian modelling of spatio-temporal data |
+| 14:40-15:10 | [Chao Zheng](https://www.southampton.ac.uk/people/5y7b6h/doctor-chao-zheng){target="_blank"} (UoS) | Deep Neural Networks Estimation for Non-IID Data |
 | [15:10-15:30]{style="color: red"} | [—]{style="color: red"} | [Social break]{style="color: red"} |
-| 15:30-16:00 | [Chao Zheng](https://www.southampton.ac.uk/people/5y7b6h/doctor-chao-zheng){target="_blank"} (UoS) | Deep Neural Networks Estimation for Non-IID Data |
+| 15:30-16:00 | [Sujit Sahu](https://www.southampton.ac.uk/people/5wynjr/professor-sujit-sahu){target="_blank"} (UoS) | Bayesian modelling of spatio-temporal data |
 | 16:00-16:30 | [Andrew Yiu](https://scholar.google.com/citations?hl=en&user=Kn6mpgsAAAAJ){target="_blank"} (UoS) | Semiparametric posterior corrections |
 | [16:30-17:30]{style="color: red"} | [—]{style="color: red"} | [:beers: Social at Southampton Common (<a href="https://maps.app.goo.gl/8AysjtvWbdRPGz9y7" target="_blank">The Cowherds</a> pub)]{style="color: red"} |
 

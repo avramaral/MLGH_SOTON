@@ -54,7 +54,7 @@ The meeting will feature a full day of research talks, with contributions from m
 | Time | Name            | Description                            |
 | ---- | --------------- | -------------------------------------- | 
 | 10:30-10:35 | [André Amaral](https://www.avramaral.com/) (UoS) | Opening |
-| 10:35-11:35 | [Gianluca Boo](https://www.southampton.ac.uk/people/5xmflk/doctor-gianluca-boo){target="_blank"} (WorldPop, UoS) | TBC |
+| 10:35-11:35 | [Gianluca Boo](https://www.southampton.ac.uk/people/5xmflk/doctor-gianluca-boo){target="_blank"} (WorldPop, UoS) | Bayesian high-resolution population estimation for precision global health |
 | 11:35-12:05 | [Kevin Tang](https://www.lshtm.ac.uk/aboutus/people/tang.kevin){target="_blank"} and [Mohammed Osman](https://www.linkedin.com/in/mo-osman-8200a0218/){target="_blank"} (World Food Programme) | Modelling & Mapping Inadequate Micronutrient Intake (MiMi) project |
 | 12:05-12:30 | [Layna Dennett](https://www.southampton.ac.uk/people/5xq75k/miss-layna-dennett){target="_blank"} (UoS) | Capture-recapture population size estimation with zero-truncated meta-analytic data |
 | [12:30-12:40]{style="color: red"} | [—]{style="color: red"} | [Group photo]{style="color: red"} |
